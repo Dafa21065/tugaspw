@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+}
+.container2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav {
+width: 13%;
+height: 630px;
+background-color: crimson;
+}
+
+.head {
+    width: 180vh;
+    height: 115px;
+    background-color: rgb(127, 214, 255);
+}
+
+.box6 {
+    display: flex;
+}
+
+article {
+    width: 130vh;
+    height: 400px;
+    background-color: rgb(205, 213, 255);
+}
+
+aside {
+    width: 50vh;
+    height: 400px;
+    background-color: rgb(95, 160, 120);
+}
+
+.foot {
+    width: 180vh;
+    height: 115px;
+    background-color: aquamarine;
+}
